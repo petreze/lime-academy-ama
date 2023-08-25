@@ -1,0 +1,17 @@
+{
+	"name": "lime-academy-ama",
+	"version": "1.0.0",
+	"description": "",
+	"main": "ama.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@hashgraph/sdk": "^2.32.0",
+		"axios": "^1.2.3",
+		"dotenv": "^16.3.1"
+	}
+}
